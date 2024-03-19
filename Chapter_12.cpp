@@ -14,7 +14,7 @@ Subsection is denoted by:
 
 /*
 Descriptions are commented using multi-line comments.
-Code comments are denited by \\
+Code comments are denoted by \\
 */
 
 int main() {
